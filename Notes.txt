@@ -1,0 +1,9 @@
+Univariant -> Dealing with one column / one variable
+
+Bivariant -> Dealing with two variables / two columns
+
+Imbalanced dataset -> Class A and B: A dataset where the ratio of class A to class B is 80:20 or 90:10. So, in this case it is going to be biased towards one particular class. So in that case we have to use up sampling or down sampling.
+
+Up sampling -> This technique increases the number of data sample in a given dataset. This technique is used for correct the imbalance in a dataset. So, we basically add more data to the class that has less data. For example, class B in the above example. Up sampling is good most of the time.
+
+Down sampling -> Opposite of up sampling. We basically remove a lot of data from the class that has more data. This could lead to problems as that class might actually lose some of its characteristics. So most of the time down sampling is not good.
